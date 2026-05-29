@@ -162,11 +162,9 @@ http://127.0.0.1:8000/
 ## 🔮 Future Enhancements
 
 - 📧 Email notifications for loan updates  
-- 📄 PDF generation for loan statements  
 - 🔐 OTP-based authentication  
 - 📱 Improved mobile responsiveness  
-- 🌐 REST API integration  
-- 📊 Loan repayment forecasting charts  
+- 🌐 REST API integration    
 
 ---
 
