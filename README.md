@@ -56,3 +56,32 @@ Developed as part of a **Software Development Internship** to gain practical exp
 ## 🏗️ System Architecture
 
 The application follows Django's **MVT (Model-View-Template)** architecture, ensuring clean separation of concerns between frontend, backend, and database layers.
+```
+loan-project/
+
+│
+
+├── loan_project/          # Root Django project & settings
+
+├── loan_app/              # Core application module
+
+│   ├── models.py          # Database schema definitions
+
+│   ├── views.py           # Business logic & request handling
+
+│   ├── urls.py            # URL routing & navigation
+
+│   └── forms.py           # Form handling & validation
+
+│
+
+├── templates/             # HTML templates (user & admin)
+
+├── static/                # CSS, JavaScript & assets
+
+├── media/                 # Uploaded documents & images
+
+├── manage.py              # Django project manager
+
+└── requirements.txt       # Project dependencies
+```
